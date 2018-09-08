@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ljh15\Desktop\JumpingGame\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="C:\Users\ljh15\Desktop\JumpingGame\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_e3045ae061f3b44875f8b79c15fddc85c0111912.jar" />
+    </item>
+
+</items>
